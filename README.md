@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54898e02-1295-40d4-8d4a-7d2037ffd416" data-share-badge-host="https://www.youracclaim.com"></div>
-<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+![AZ-900](https://images.youracclaim.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abbad92b-d64e-4bff-b845-c019d3971c17" data-share-badge-host="https://www.youracclaim.com"></div>
 <script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
