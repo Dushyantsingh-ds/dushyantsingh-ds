@@ -1,23 +1,14 @@
-### Hi there 👋
+### Hi, I'm Dushyant 👋
 
 
-**Dushyantsingh-ds/dushyantsingh-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .Net web Developer and Cloud Architecture, i have knowledge of multipule languages like C, C++, C#, Java, Python, Sql, Css, JavaScript, Powershell. My specialization in C# and Sql. I have IT industrial experience in DotNet and also worked in projects.
 
-Here are some ideas to get you started:
+I also have deep knowledge of ML, and also develope popluar applications API's, Now i am shape mhy skill to moveon in AI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![AZ-900](https://images.youracclaim.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abbad92b-d64e-4bff-b845-c019d3971c17" data-share-badge-host="https://www.youracclaim.com"></div>
-<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5bcb1939-aa44-48dd-bed5-69f050ddc56a" data-share-badge-host="https://www.youracclaim.com"></div>
-<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+I am certifide from 
+Microsoft for Azure Fundamentals,
+Intell For AI,
+IBM for Machine Learning,
+IBM for SQL and DataBase,
+Cisco for Iot,
+and many more certifications.
