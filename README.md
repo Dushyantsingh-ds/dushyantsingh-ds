@@ -13,4 +13,4 @@ IBM for SQL and DataBase,
 Cisco for Iot,
 and many more certifications.
 
-<div data-share-badge-id="0d67ddee-f009-4c7f-b4b9-bf2c36c09ee3" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0d67ddee-f009-4c7f-b4b9-bf2c36c09ee3" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
