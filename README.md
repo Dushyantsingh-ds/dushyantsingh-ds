@@ -1,6 +1,6 @@
 ### Hi, I'm Dushyant 👋
 
-I am a Full stack .Net Developer, Cloud Architect, Microsoft Certified Trainer, AWS Community Builder and Google DSC Lead. <br>
+I am a Full stack .Net Developer, Cloud Architect, Microsoft Certified Trainer, Ex-AWS Community Builder and Google DSC Lead. <br>
 Over a past couple of years, I worked on my project with diffrent technoogies .Net Windows form, Web-from, MVC, Entityframework, Web API's, Diffrent kinds of DataBase, Android, Machine Learning and Deep Learning models, serverless services, and other cloud based services.
 
 Dotnet Projects <br>
